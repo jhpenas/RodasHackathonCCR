@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo_RODAS.jpeg" width=200>
+  <img src="logo_RODAS.jpg" width=750>
 </p>
 
 # RodasHackathonCCR
