@@ -6,10 +6,13 @@
 # RodasHackathonCCR
 <sub>[Outros Projetos](https://github.com/jhpenas/portfolio).</sub>
 
----
-Projeto Web, desenvolvido em JS, e Mobile, em python, para o desafio Hackathon CCR com o objetivo de melhorar a qualidade de vida de Caminhoneiros e Caminhoneiras. Desafio Proposto pela CCR e Shawee
-Projeto finalista no TOP 10 [Hackathon CCR](https://www.youtube.com/watch?v=nSt_r_k9FBY).
-Equipe do Projeto: [Everson Motta](https://www.linkedin.com/in/everson-motta-b76673100/) (Marketing), [Jhonata Araújo](https://www.linkedin.com/in/jhonatavinicius2488/) (Desenvolvimento da página Web) e [Juan Rodrigo Harbar Penas](https://www.linkedin.com/in/jhpenas/) (Desenvolvimento do app mobile).
+<sub>Em português [aqui](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README%20pt.md).</sub>
 
-## Apresentação:
+
+---
+Web project, developed in JS, and Mobile, in python, for the CCR Hackathon challenge with the objective of improving the quality of life of Truck Drivers. Challenge Proposed by CCR and Shawee.
+[Hackathon CCR](https://www.youtube.com/watch?v=nSt_r_k9FBY) TOP 10 project.
+Project Team: [Everson Motta](https://www.linkedin.com/in/everson-motta-b76673100/) (Marketing), [Jhonata Araújo](https://www.linkedin.com/in/jhonatavinicius2488/) (Web Developer) e [Juan Rodrigo Harbar Penas](https://www.linkedin.com/in/jhpenas/) (Mobile developer).
+
+## Presentation:
 https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be
